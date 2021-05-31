@@ -1,7 +1,7 @@
 {
   "name": "@vtexlab/instore-profile",
   "license": "AGPL-3.0-only",
-  "version": "2.9.3-beta",
+  "version": "2.9.3-beta.0",
   "description": "React component for managing user profiles",
   "main": "lib/index.js",
   "files": [
