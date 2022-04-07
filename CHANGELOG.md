@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 
+## [2.9.5] - 2022-04-07
+### Fixed
+- Fixing missing translation for submit term
+
 ## [2.9.4] - 2021-06-01
 
 ## [2.9.3] - 2021-06-01
